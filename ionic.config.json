@@ -1,0 +1,8 @@
+{
+  "name": "keyonic-v2",
+  "app_id": "5a54a93f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
